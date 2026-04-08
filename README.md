@@ -1,5 +1,6 @@
 # CIS_Benchmark_and_security_registry_tweaks_for_home_users
 Please check which settings are fit to your needs, few of these settings aren't oriented to organizations.
+The settings are for Windows 11.
 
 ________________________________________
 🔒 Lock Screen
