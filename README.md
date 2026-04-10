@@ -1,4 +1,4 @@
-# CIS_Benchmark_and_security_registry_tweaks_for_home_users
+# CIS Benchmark and security registry tweaks for windows 11.
 Please check which settings are fit to your needs, few of these settings aren't oriented to organizations.
 The settings are for Windows 11.
 Disclaimer: I used Perplexity for summerize the titles or description in this readme.
